@@ -1,11 +1,4 @@
 # noise_CIFAR-100
-
-[![Python](https://img.shields.io/badge/python-3.9.12-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-362/)
-[![Django](https://img.shields.io/badge/pytorch-1.11.0-blue.svg?style=flat-square)](https://www.djangoproject.com/)
-[![Django Rest Framework](https://img.shields.io/badge/sklearn-1.0.2-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
-
-[![Django Rest Framework](https://img.shields.io/badge/OpenCV-4.5.5-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
-
 > #### Noising CIFAR-100 시험 1위
 
 ![image](https://user-images.githubusercontent.com/76248669/174354160-9bfc8a81-9ca3-4f2d-8e1c-1fc7a9f42c51.png)
