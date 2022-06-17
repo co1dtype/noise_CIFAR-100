@@ -35,7 +35,7 @@
 - Scheduler: ReduceLROnPlateau
 - Model: ResNet18, ResNet50, ResNet152
 
-## Accuary
+## Accuracy
 
 | Model     | Accuracy |
 | --------- | -------- |
